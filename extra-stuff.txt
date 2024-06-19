@@ -1,1 +1,2 @@
 Add <script src="coi-serviceworker.js"></script> to file
+Change mainPack from null to "https://github.com/prsaseta/prsaseta.github.io/blob/master/index.pck?raw=true"
